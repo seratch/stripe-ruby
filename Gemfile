@@ -9,6 +9,7 @@ group :development do
   gem "mocha", "~> 0.13.2"
   gem "rake"
   gem "shoulda-context"
+  gem "subprocess"
   gem "test-unit"
   gem "timecop"
   gem "webmock"
